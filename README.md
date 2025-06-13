@@ -76,4 +76,4 @@ Este projeto não utiliza um banco de dados tradicional. Todas as informações 
 
 Desenvolvido por **Arthur Lago Martins**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/[seu-linkedin](https://www.linkedin.com/in/arthur-martins-510b36235/)]/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-martins-510b36235/)
